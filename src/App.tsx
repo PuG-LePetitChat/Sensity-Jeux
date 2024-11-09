@@ -31,7 +31,7 @@ function App() {
                       onClick={() => setView(null)}
                     >
                       <Gamepad2 className="w-8 h-8 text-purple-400" />
-                      <span className="ml-2 text-xl font-bold text-white">MiniGames Hub</span>
+                      <span className="ml-2 text-xl font-bold text-white">CPZ Game</span>
                     </div>
                     <button
                       onClick={() => setShowAdminPanel(true)}
